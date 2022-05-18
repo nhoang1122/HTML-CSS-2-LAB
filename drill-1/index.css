@@ -1,0 +1,35 @@
+header {
+    position: absolute;
+    width: 100vw;
+    height: 200px;
+    background-color: black;
+}
+
+#left-section {
+    position: absolute;
+    background-color: grey;
+    height: 100vh;
+    width: 15vw;
+    top: 200px;
+    
+}
+
+#right-section {
+    position: absolute;
+    top: 200px;
+    right: 0px;
+    background-color: grey;
+    height: 100vh;
+    width: 15vw;
+    
+}
+
+#bottom-section{
+    position: absolute;
+    height: 100px;
+    width: 70vw;
+    background-color: black;
+    bottom: -200px;
+    right: 171px;
+}
+
